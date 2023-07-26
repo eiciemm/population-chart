@@ -1,0 +1,13 @@
+.graphWrapper {
+  width: 900px;
+  margin: 32px auto;
+  /* background: lightgray; */
+}
+.checkBox {
+  width: 120px;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 768px) {
+
+}

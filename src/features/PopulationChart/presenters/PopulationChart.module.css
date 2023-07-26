@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+
+.wrapper {
+  width: 98%;
+  margin: auto;
+}
+.title {
+  font-size: 32px;
+  font-family: 'EB Garamond', serif;
+  text-align: center;
+}
+.title span {
+  font-size: 17px;
+  color: red;
+}
+.contentsWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+.checkBox {
+  width: 100px;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 768px) {
+
+}

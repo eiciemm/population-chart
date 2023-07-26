@@ -1,0 +1,17 @@
+.selectBox {
+  min-width: 120px;
+  height: 25px;
+  background-color: lightgray;
+  border: 2px solid gray;
+  border-radius: 3px;
+  color: #58504A;
+  cursor: pointer;
+  padding: 2px;
+}
+.selectBox:focus {
+  outline: none;
+}
+
+@media (max-width: 768px) {
+
+}

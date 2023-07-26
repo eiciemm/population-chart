@@ -1,0 +1,13 @@
+.checkBoxes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+.checkBox {
+  width: 100px;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 768px) {
+
+}
